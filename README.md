@@ -1,64 +1,54 @@
-📚 List of Programs
-Anagram Check
+🚀 Java String Interview Questions
+Welcome to the Java String Interview Questions repository!
+This project contains essential Java string programs that are commonly asked in technical interviews.
+Each file focuses on solving different types of string manipulation and algorithmic problems.
 
-Character Count in a String
+📝 Programs Included
 
-Divide String into Equal Parts
-
-Frequency of Words in a String
-
-Logical String Problems
-
-Max and Min Occurring Character
-
-Max Length Word in a Sentence
-
-Max and Min Occurring Word
-
-Palindrome Check (2 Versions)
-
-String Sorting Based on ASCII
-
-String Palindrome (Simple)
-
-String Thread Safety Demo
-
-Swapping Strings without Third Variable
-
-Uppercase to Lowercase Conversion
-
-Uppercase to Lowercase and Vice Versa
-
-First Non-Repeated Character (NEW)
-
-String Compression (NEW)
-
-🚀 How to Run
+#	Program	Description
+1	Anagram.java	Check if two strings are anagrams
+2	CharacterCountSring.java	Count frequency of each character
+3	DivideString.java	Divide string into equal parts
+4	FrequencyofWord.java	Find frequency of each word
+5	LogicalString.java	Logical problems related to strings
+6	MaxAndMinOccuringChar.java	Find max/min occurring character
+7	MaxLengthWord.java	Find the longest word in a sentence
+8	MaxMinOccuringWord.java	Find max/min occurring word
+9	PalindromeString2.java	Check if a string is a palindrome
+10	StringASCDSC.java	Sort string based on ASCII values
+11	StringPalindrome.java	Basic palindrome checking
+12	StringThreadSafety.java	Demonstrate thread safety in strings
+13	SwapingString.java	Swap two strings without third variable
+14	Uppertolower.java	Convert uppercase to lowercase
+15	UppertolowerAndViceversa.java	Switch case of each character
+16	FirstNonRepeatedChar.java ✅	Find the first non-repeated character
+17	StringCompression.java ✅	Compress a string using character count
+⚙️ How to Run
 Clone this repository:
 
 bash
 Copy
 Edit
 git clone <repository-url>
-Open in your favorite IDE (like Eclipse, IntelliJ IDEA).
+Open in your favorite IDE (Eclipse / IntelliJ IDEA).
 
 Navigate to src/com.tp.string/.
 
-Run any .java file individually by executing its main method.
+Run any .java file by executing its main() method.
 
-🎯 Purpose
-This project is created for:
+🎯 Purpose of This Repository
+💡 Strengthen Java String concepts
 
-Java coding practice
+💡 Prepare for technical interviews
 
-Preparing for string-based interview questions
+💡 Practice coding challenges
 
-Understanding different string manipulation techniques
+🤝 Contributions Welcome!
+If you have more interesting String problems,
+feel free to fork this repo, add your solution, and submit a pull request!
+Let’s build a strong resource for all Java learners together. ✨
 
-📢 Contributions
-If you have more interesting String problems, feel free to contribute by opening a pull request!
-Let's make this repository a stronger learning resource for all Java learners.
+📬 Contact
+For any queries, discussions, or collaborations, feel free to connect! 😊
 
-📧 Contact
-For any queries or discussions, feel free to reach out!
-
+🔥 Happy Coding!
