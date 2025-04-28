@@ -9,8 +9,9 @@ Each file focuses on solving different types of string manipulation and algorith
 
 #	Program	Description
 =======================
-# | Program | Description
-1 | Anagram.java | Check if two strings are anagrams
+# | Program         |        Description
+
+1 | Anagram.java      Check if two strings are anagrams
 2 | CharacterCountSring.java | Count frequency of each character
 3 | DivideString.java | Divide string into equal parts
 4 | FrequencyofWord.java | Find frequency of each word
