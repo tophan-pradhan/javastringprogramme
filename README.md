@@ -5,26 +5,28 @@ This project contains essential Java string programs that are commonly asked in 
 Each file focuses on solving different types of string manipulation and algorithmic problems.
 
 📝 Programs Included
+=====================
 
 #	Program	Description
 =======================
-1	Anagram.java	- Check if two strings are anagrams
-2	CharacterCountSring.java	- Count frequency of each character
-3	DivideString.java	Divide-  string into equal parts
-4	FrequencyofWord.java - 	Find frequency of each word
-5	LogicalString.java	- Logical problems related to strings
-6	MaxAndMinOccuringChar.java -	Find max/min occurring character
-7	MaxLengthWord.java	- Find the longest word in a sentence
-8	MaxMinOccuringWord.java -	Find max/min occurring word
-9	PalindromeString2.java	- Check if a string is a palindrome
-10	StringASCDSC.java	 -Sort string based on ASCII values
-11	StringPalindrome.java	Basic palindrome checking
-12	StringThreadSafety.java	Demonstrate thread safety in strings
-13	SwapingString.java	Swap two strings without third variable
-14	Uppertolower.java	Convert uppercase to lowercase
-15	UppertolowerAndViceversa.java	Switch case of each character
-16	FirstNonRepeatedChar.java ✅	Find the first non-repeated character
-17	StringCompression.java ✅	Compress a string using character count
+# | Program | Description
+1 | Anagram.java | Check if two strings are anagrams
+2 | CharacterCountSring.java | Count frequency of each character
+3 | DivideString.java | Divide string into equal parts
+4 | FrequencyofWord.java | Find frequency of each word
+5 | LogicalString.java | Logical problems related to strings
+6 | MaxAndMinOccuringChar.java | Find max/min occurring character
+7 | MaxLengthWord.java | Find the longest word in a sentence
+8 | MaxMinOccuringWord.java | Find max/min occurring word
+9 | PalindromeString2.java | Check if a string is a palindrome
+10 | StringASCDSC.java | Sort string based on ASCII values
+11 | StringPalindrome.java | Basic palindrome checking
+12 | StringThreadSafety.java | Demonstrate thread safety
+13 | SwapingString.java | Swap two strings without third variable
+14 | Uppertolower.java | Convert uppercase to lowercase
+15 | UppertolowerAndViceversa.java | Convert uppercase to lowercase and vice versa
+16 | FirstNonRepeatedChar.java | Find the first non-repeated character
+17 | StringCompression.java | Compress a string using character counts
 ⚙️ How to Run
 ==============
 Clone this repository:
