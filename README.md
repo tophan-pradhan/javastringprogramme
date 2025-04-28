@@ -1,5 +1,5 @@
-# 🚀 Java String Interview Questions
-========================================
+# 🚀 Java String Interview Question 
+
 Welcome to the **Java String Interview Questions** repository!  
 This project contains essential **Java string programs** that are commonly asked in technical interviews.  
 Each file focuses on solving different types of **string manipulation and algorithmic problems**.
